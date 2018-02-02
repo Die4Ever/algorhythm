@@ -1,0 +1,20 @@
+-adjust volumes and maybe increase the overall volume(might make mp3 encoding better)
+-pass song density into instrument creator
+-give each instrument an instrument density
+	-has a small chance each phrase to change by some random amount
+-give each instrument a rhythm overlay
+	-can change over time
+	-should allow 32nd notes
+-possibly generate multiple leads with a different key or synth
+-pick different drum breaks at random
+-more synths
+-different length notes, possibly by looking back in the notes array
+-mod wheels!
+	-how to compose with mod wheels?
+		-I guess just same motif-arrangement style as everything else?
+-instrument groups
+	-playing similar and overlapping rhythms
+	
+http://en.wikipedia.org/wiki/Distortion_(music)
+http://en.wikipedia.org/wiki/Low-pass_filter#Algorithmic_implementation
+
